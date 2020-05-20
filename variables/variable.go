@@ -24,6 +24,7 @@ import (
 //###### Type conversion
 ////#destinationType(variable)
 ////#use strconv package for strings
+////end
 
 //==============================================//
 
