@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//start
 //# Boolean type
 ////# Values are true or false
 ////# Not an alias for other types (e.g. int)
@@ -53,6 +54,7 @@ import "fmt"
 ////====>Alias for int32
 ////====>special methods normally required to process
 ////====> e.g. strings.Reader#ReadRune
+//end
 
 func main() {
 	// go should not worry about var value to init
